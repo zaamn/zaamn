@@ -29,11 +29,6 @@
 <a href="" alt="git"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>
 <a href="" alt="terminal"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>
 
-[![Kamruzaman's github stats](https://github-readme-stats.vercel.app/api?username=zamanz&show_icons=true)](https://github.com/zamanz)
-<br />
-
-[![Kamruzaman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zamanz&layout=compact)](https://github.com/zamanz)
-
 <h2 align="center"> MY GITHUB STATS </h2>
 <p align="center">
   <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=zamanz&show_icons=true&theme=tokyonight&line_height=27">
