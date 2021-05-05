@@ -29,6 +29,25 @@
 <a href="" alt="git"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>
 <a href="" alt="terminal"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>
 
+<h2 align="center">📫 WHERE TO FIND ME</h2>
+<p align="center">
+    <a title="Facebook" href="https://facebook.com/kzaman.me">
+        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
+    </a>
+    <a title="LinkedIn" href="https://www.linkedin.com/in/zamanz/">
+        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
+    </a>
+    <a title="Instagram" href="https://instagram.com/kamruzzam_n">
+        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
+    </a>
+    <a title="Twitter" href="https://twitter.com/kzaman.me">
+        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
+    </a>
+    <a title="Youtube" href="https://www.youtube.com/channel/UCXyOb54bzbRA2wl2que_fGQ">
+        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%23FF0000?style=flat-square&logo=youtube" />
+    </a>
+</p>
+
 <h2 align="center"> MY GITHUB STATS </h2>
 <p align="center">
   <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=zamanz&show_icons=true&theme=tokyonight&line_height=27">
