@@ -102,8 +102,8 @@
 </a>
 
 
-<h2 align="center">WHERE TO FIND ME</h2>
-<p align="center">
+<h2>WHERE TO FIND ME</h2>
+<p>
     <a title="Facebook" href="https://facebook.com/kzaman.me">
         <img src="https://img.shields.io/badge/-Zaman-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
     </a>
@@ -121,8 +121,8 @@
     </a>
 </p>
 
-<h2 align="center"> MY GITHUB STATS </h2>
-<p align="center">
+<h2>MY GITHUB STATS </h2>
+<p>
   <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=zamanz&show_icons=true&theme=tokyonight&line_height=27">
   <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamanz&theme=tokyonight">
 </p>
