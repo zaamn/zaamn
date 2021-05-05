@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/JAVA-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
   </a>
 </p>
-
+<hr/>
 <h3>WEB TECHNOLOGIES </h3>
 
 <a title="HTML5" href="https://www.w3schools.com/html/default.asp">
@@ -44,7 +44,7 @@
 <a title="Markdown" href="https://www.markdownguide.org/">
     <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white"/>
 </a>
-
+<hr/>
 <h3>FRAMEWORKS & CMS </h3>
     
 <a title="Laravel" href="https://www.laravel.com/">
@@ -69,7 +69,7 @@
 <a title="WordPress" href="https://wordpress.org/">
     <img src="https://img.shields.io/badge/WordPress%20-%2321759B.svg?&style=flat-square&logo=wordpress&logoColor=white"/>
 </a>
-
+<hr/>
 <h3>DATABASES </h3>
     
 <a title="SQLite" href="https://www.sqlite.org/index.html">
@@ -78,8 +78,7 @@
 <a title="MYSQL" href="https://www.mysql.com/">
     <img src="http://img.shields.io/badge/-MYSQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff"/>
 </a>
-
-
+<hr/>
 <h2>WHERE TO FIND ME</h2>
 <p>
     <a title="Facebook" href="https://facebook.com/kzaman.me">
@@ -98,14 +97,13 @@
         <img src="https://img.shields.io/badge/-Zaman-%23FF0000?style=flat-square&logo=youtube" />
     </a>
 </p>
-
+<hr/>
 <h2>MY GITHUB STATS </h2>
 <p>
   <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=zamanz&show_icons=true&theme=tokyonight&line_height=27">
   <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamanz&theme=tokyonight">
 </p>
-
-
+<hr/>
 <h3> TOOLS USING </h3>
 <hr/>
 <h4> Version Controlling Tool </h4>
@@ -122,8 +120,7 @@
 <a title="GitLab" href="https://gitlab.com/mishajib">
    <img src="https://img.shields.io/badge/Gitlab%20-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white"/>
 </a>  
-
-
+<hr/>
 <h4>Editors & <span title="Intergrated Development Environment">IDE</span>'s </h4>
     
 <a title="VsCode" href="https://code.visualstudio.com/">
@@ -141,8 +138,7 @@
 <a title="Atom" href="https://atom.io/">
    <img src="https://img.shields.io/badge/-Atom%20-%2366595C?style=flat-square&logo=atom" />
 </a>
-
-
+<hr/>
 <h4> Other Tools </h4>
 
 <a title="Netlify" href="https://www.netlify.com/">
