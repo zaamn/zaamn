@@ -3,11 +3,6 @@
 [![Gists Badge](https://pageview.vercel.app/?github_user=zamanz)](https://github.com/zamanz)
 
 
-### Connect with me:
-
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/zamanz/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/kzaman.me) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/11139172/kamruzzaman)
-
-
 ### Download Resume:
 <a title="PHP" href="https://drive.google.com/u/0/uc?id=1qdK3JZVD9ZxTXfNZQgr0FdFUkWWxwhLT&export=download">
    <img src="https://img.shields.io/badge/Resume-black?color=14171A&labelColor=212121&logo=resume&logoColor=ffffff"/>
