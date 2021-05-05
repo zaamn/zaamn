@@ -34,6 +34,12 @@
 
 [![Kamruzaman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zamanz&layout=compact)](https://github.com/zamanz)
 
+<h2 align="center"> MY GITHUB STATS </h2>
+<p align="center">
+  <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=zamanz&show_icons=true&theme=tokyonight&line_height=27">
+  <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamanz&theme=tokyonight">
+</p>
+
 [website]: https://kzaman.me/
 [twitter]: https://twitter.com/kzaman_me
 [youtube]:  https://www.youtube.com/
