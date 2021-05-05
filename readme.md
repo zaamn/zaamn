@@ -32,19 +32,19 @@
 <h2 align="center">📫 WHERE TO FIND ME</h2>
 <p align="center">
     <a title="Facebook" href="https://facebook.com/kzaman.me">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Zaman-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
     </a>
     <a title="LinkedIn" href="https://www.linkedin.com/in/zamanz/">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Zaman-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
     </a>
     <a title="Instagram" href="https://instagram.com/kamruzzam_n">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Zaman-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
     </a>
     <a title="Twitter" href="https://twitter.com/kzaman.me">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Zaman-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
     </a>
     <a title="Youtube" href="https://www.youtube.com/channel/UCXyOb54bzbRA2wl2que_fGQ">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%23FF0000?style=flat-square&logo=youtube" />
+        <img src="https://img.shields.io/badge/-Zaman-%23FF0000?style=flat-square&logo=youtube" />
     </a>
 </p>
 
