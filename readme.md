@@ -70,7 +70,7 @@
     <img src="https://img.shields.io/badge/WordPress%20-%2321759B.svg?&style=flat-square&logo=wordpress&logoColor=white"/>
 </a>
 
-<h3>DATABASES </h3>
+<h3>DATABASES</h3>
     
 <a title="SQLite" href="https://www.sqlite.org/index.html">
     <img src="https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=flat-square&logo=sqlite&logoColor=white"/>
@@ -98,15 +98,15 @@
     </a>
 </p>
 
-<h2>MY GITHUB STATS </h2>
+<h2>MY GITHUB STATS</h2>
 <p>
   <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=zamanz&show_icons=true&theme=tokyonight&line_height=27">
   <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamanz&theme=tokyonight">
 </p>
 <hr/>
-<h3> TOOLS USING </h3>
+<h3>TOOLS USING</h3>
 
-<h4> Version Controlling Tool </h4>
+<h4>Version Controlling Tool </h4>
 
 <a title="Git" href="https://git-scm.com/">
    <img src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
@@ -121,7 +121,7 @@
    <img src="https://img.shields.io/badge/Gitlab%20-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white"/>
 </a>  
 
-<h4>Editors & <span title="Intergrated Development Environment">IDE</span>'s </h4>
+<h4>Editors & <span title="Intergrated Development Environment">IDE</span>'s</h4>
     
 <a title="VsCode" href="https://code.visualstudio.com/">
    <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
@@ -139,7 +139,7 @@
    <img src="https://img.shields.io/badge/-Atom%20-%2366595C?style=flat-square&logo=atom" />
 </a>
 
-<h4> Other Tools </h4>
+<h4>Other Tools</h4>
 
 <a title="Netlify" href="https://www.netlify.com/">
    <img src="https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff" />
