@@ -8,6 +8,11 @@
    <img src="https://img.shields.io/badge/Resume-black?color=14171A&labelColor=212121&logo=resume&logoColor=ffffff"/>
 </a>
 
+<h2>MY GITHUB STATS</h2>
+<p>
+  <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=zamanz&show_icons=true&theme=tokyonight&line_height=27">
+  <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamanz&theme=tokyonight">
+</p>
 
 <h2>MY TECH STACK </h2>
 
@@ -98,11 +103,6 @@
     </a>
 </p>
 
-<h2>MY GITHUB STATS</h2>
-<p>
-  <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=zamanz&show_icons=true&theme=tokyonight&line_height=27">
-  <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamanz&theme=tokyonight">
-</p>
 <hr/>
 <h3>TOOLS USING</h3>
 
